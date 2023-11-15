@@ -12,13 +12,13 @@ The core concept of LoRA involves representing weight updates using two smaller 
 
 Explore various use cases of PEFT, ranging from language models to image classifiers, through the official documentation tutorials:
 
-1. [StackLLaMA: A Hands-On Guide to Train LLaMA with RLHF](#https://huggingface.co/blog/stackllama) - Delve into the tutorial for a practical understanding of training LLaMA with Reinforcement Learning Hyperparameter Fine-Tuning (RLHF).
+1. [StackLLaMA: A Hands-On Guide to Train LLaMA with RLHF](https://huggingface.co/blog/stackllama) - Delve into the tutorial for a practical understanding of training LLaMA with Reinforcement Learning Hyperparameter Fine-Tuning (RLHF).
 
-2. [Finetune-opt-bnb-peft](#https://colab.research.google.com/drive/1jCkpikz0J2o20FBQmYmAGdiKmJGOMo-o?usp=sharing) - Learn the intricacies of efficient fine-tuning with optimal hyperparameters using the Finetune-opt-bnb-peft tutorial.
+2. [Finetune-opt-bnb-peft](https://colab.research.google.com/drive/1jCkpikz0J2o20FBQmYmAGdiKmJGOMo-o?usp=sharing) - Learn the intricacies of efficient fine-tuning with optimal hyperparameters using the Finetune-opt-bnb-peft tutorial.
 
-3. [Efficient Flan-T5-XXL Training with LoRA and Hugging Face](#https://www.philschmid.de/fine-tune-flan-t5-peft) - Explore the guide on achieving efficient training of Flan-T5-XXL models using LoRA and the Hugging Face library.
+3. [Efficient Flan-T5-XXL Training with LoRA and Hugging Face](https://www.philschmid.de/fine-tune-flan-t5-peft) - Explore the guide on achieving efficient training of Flan-T5-XXL models using LoRA and the Hugging Face library.
 
-4. [DreamBooth Fine-Tuning with LoRA](#https://huggingface.co/docs/peft/task_guides/dreambooth_lora) - Step through the DreamBooth fine-tuning tutorial to understand how to employ LoRA for optimal results.
+4. [DreamBooth Fine-Tuning with LoRA](https://huggingface.co/docs/peft/task_guides/dreambooth_lora) - Step through the DreamBooth fine-tuning tutorial to understand how to employ LoRA for optimal results.
 
 5. [Image Classification Using LoRA](#) - Gain insights into image classification techniques with LoRA by following the dedicated tutorial.
 
